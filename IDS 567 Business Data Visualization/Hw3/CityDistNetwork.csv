@@ -1,0 +1,1642 @@
+SalesOfficeCity,CustomerCity,dayofmonth,distance
+"Chicago, IL","Des Moines, IA",3,299
+"Chicago, IL","Columbus, OH",3,296
+"Chicago, IL","Cleveland, OH",3,316
+"Chicago, IL","Kansas City, MO",3,403
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Buffalo, NY",3,474
+"Chicago, IL","Columbus, OH",3,296
+"Chicago, IL","Cleveland, OH",3,316
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Columbus, OH",3,296
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Kansas City, MO",3,403
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Pittsburgh, PA",3,413
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Nashville, TN",3,409
+"Chicago, IL","Buffalo, NY",3,474
+"Chicago, IL","Des Moines, IA",3,299
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","Minneapolis, MN",3,334
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Chicago, IL","Detroit, MI",3,235
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","Cincinnati, OH",3,264
+"Chicago, IL","Des Moines, IA",2,299
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Columbus, OH",2,296
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Kansas City, MO",2,403
+"Chicago, IL","Detroit, MI",2,235
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Chicago, IL","Cincinnati, OH",2,264
+"Chicago, IL","Kansas City, MO",2,403
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Kansas City, MO",2,403
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Chicago, IL","Buffalo, NY",2,474
+"Chicago, IL","Columbus, OH",2,296
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Columbus, OH",2,296
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","Buffalo, NY",2,474
+"Chicago, IL","Des Moines, IA",2,299
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Chicago, IL","Detroit, MI",2,235
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Kansas City, MO",2,403
+"Chicago, IL","Des Moines, IA",1,299
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Kansas City, MO",1,403
+"Chicago, IL","Detroit, MI",1,235
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Chicago, IL","Cincinnati, OH",1,264
+"Chicago, IL","Kansas City, MO",1,403
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Kansas City, MO",1,403
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Chicago, IL","Buffalo, NY",1,474
+"Chicago, IL","Columbus, OH",1,296
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Columbus, OH",1,296
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","Buffalo, NY",1,474
+"Chicago, IL","Columbus, OH",1,296
+"Chicago, IL","Des Moines, IA",1,299
+"Chicago, IL","Omaha, NE",1,416
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",1,334
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Chicago, IL","Detroit, MI",1,235
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Kansas City, MO",1,403
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Baton Rouge, LA",1,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",2,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",3,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",1,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",2,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",3,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",1,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",2,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",3,383
+"Dallas/Fort Worth, TX","Alexandria, LA",1,285
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",1,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",2,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",3,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",1,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",2,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",3,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",1,431
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",2,431
+"Dallas/Fort Worth, TX","Alexandria, LA",1,285
+"Dallas/Fort Worth, TX","Tyler, TX",1,102
+"Dallas/Fort Worth, TX","Lake Charles, LA",1,295
+"Dallas/Fort Worth, TX","Lake Charles, LA",1,295
+"Dallas/Fort Worth, TX","Houston, TX",2,247
+"Dallas/Fort Worth, TX","Houston, TX",3,247
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",2,140
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",3,140
+"Dallas/Fort Worth, TX","San Angelo, TX",1,229
+"Dallas/Fort Worth, TX","San Angelo, TX",2,229
+"Dallas/Fort Worth, TX","San Angelo, TX",3,229
+"Dallas/Fort Worth, TX","San Angelo, TX",1,229
+"Dallas/Fort Worth, TX","San Angelo, TX",2,229
+"Dallas/Fort Worth, TX","San Angelo, TX",3,229
+"Dallas/Fort Worth, TX","San Angelo, TX",1,229
+"Dallas/Fort Worth, TX","San Angelo, TX",2,229
+"Dallas/Fort Worth, TX","San Angelo, TX",3,229
+"Dallas/Fort Worth, TX","College Station/Bryan, TX",1,164
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",2,140
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",3,140
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",2,140
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",3,140
+"Dallas/Fort Worth, TX","College Station/Bryan, TX",1,164
+"Dallas/Fort Worth, TX","Joplin, MO",2,327
+"Dallas/Fort Worth, TX","Joplin, MO",3,327
+"Dallas/Fort Worth, TX","Joplin, MO",2,327
+"Dallas/Fort Worth, TX","Joplin, MO",3,327
+"Dallas/Fort Worth, TX","Laredo, TX",2,396
+"Dallas/Fort Worth, TX","Laredo, TX",3,396
+"Dallas/Fort Worth, TX","Baton Rouge, LA",1,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",2,383
+"Charlotte, NC","Knoxville, TN",1,177
+"Charlotte, NC","Knoxville, TN",2,177
+"Charlotte, NC","Knoxville, TN",3,177
+"Dallas/Fort Worth, TX","Laredo, TX",1,396
+"Dallas/Fort Worth, TX","Shreveport, LA",2,190
+"Dallas/Fort Worth, TX","Shreveport, LA",3,190
+"Dallas/Fort Worth, TX","Shreveport, LA",2,190
+"Dallas/Fort Worth, TX","Killeen, TX",2,134
+"Dallas/Fort Worth, TX","Killeen, TX",3,134
+"Dallas/Fort Worth, TX","College Station/Bryan, TX",1,164
+"Dallas/Fort Worth, TX","Shreveport, LA",1,190
+"Dallas/Fort Worth, TX","Shreveport, LA",2,190
+"Dallas/Fort Worth, TX","Shreveport, LA",3,190
+"Dallas/Fort Worth, TX","Laredo, TX",1,396
+"Dallas/Fort Worth, TX","Laredo, TX",2,396
+"Dallas/Fort Worth, TX","College Station/Bryan, TX",2,164
+"Dallas/Fort Worth, TX","College Station/Bryan, TX",3,164
+"Dallas/Fort Worth, TX","Shreveport, LA",1,190
+"Dallas/Fort Worth, TX","Shreveport, LA",2,190
+"Dallas/Fort Worth, TX","Shreveport, LA",3,190
+"Dallas/Fort Worth, TX","Baton Rouge, LA",1,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",2,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",3,383
+"Dallas/Fort Worth, TX","Laredo, TX",1,396
+"Dallas/Fort Worth, TX","Laredo, TX",2,396
+"Dallas/Fort Worth, TX","Laredo, TX",3,396
+"Dallas/Fort Worth, TX","Baton Rouge, LA",1,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",2,383
+"Dallas/Fort Worth, TX","Baton Rouge, LA",3,383
+"Dallas/Fort Worth, TX","College Station/Bryan, TX",1,164
+"Dallas/Fort Worth, TX","Laredo, TX",1,396
+"Dallas/Fort Worth, TX","Hattiesburg/Laurel, MS",1,462
+"Dallas/Fort Worth, TX","Meridian, MS",1,485
+"Dallas/Fort Worth, TX","Meridian, MS",1,485
+"Chicago, IL","Lansing, MI",1,179
+"Chicago, IL","Lansing, MI",2,179
+"Chicago, IL","Lansing, MI",3,179
+"Chicago, IL","Lansing, MI",1,179
+"Chicago, IL","Lansing, MI",2,179
+"Chicago, IL","Lansing, MI",3,179
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",2,258
+"Chicago, IL","Traverse City, MI",3,224
+"Chicago, IL","Erie, PA",1,398
+"Chicago, IL","Erie, PA",2,398
+"Chicago, IL","Knoxville, TN",1,475
+"Chicago, IL","Knoxville, TN",2,475
+"Chicago, IL","Knoxville, TN",3,475
+"Chicago, IL","Louisville, KY",3,286
+"Chicago, IL","Mosinee, WI",1,213
+"Chicago, IL","Mosinee, WI",2,213
+"Chicago, IL","Columbus, OH",3,296
+"Chicago, IL","Kansas City, MO",3,403
+"Chicago, IL","Lexington, KY",1,323
+"Chicago, IL","Lexington, KY",2,323
+"Chicago, IL","Lexington, KY",3,323
+"Chicago, IL","Appleton, WI",1,160
+"Chicago, IL","Appleton, WI",2,160
+"Chicago, IL","Appleton, WI",3,160
+"Chicago, IL","Kalamazoo, MI",3,122
+"Chicago, IL","Kalamazoo, MI",1,122
+"Chicago, IL","Kalamazoo, MI",2,122
+"Chicago, IL","Indianapolis, IN",3,177
+"Chicago, IL","Evansville, IN",1,272
+"Chicago, IL","Evansville, IN",2,272
+"Chicago, IL","Evansville, IN",3,272
+"Chicago, IL","Peoria, IL",1,130
+"Chicago, IL","Peoria, IL",2,130
+"Chicago, IL","Memphis, TN",3,491
+"Chicago, IL","Moline, IL",3,139
+"Chicago, IL","Mosinee, WI",3,213
+"Chicago, IL","Charleston/Dunbar, WV",3,416
+"Chicago, IL","Erie, PA",1,398
+"Chicago, IL","Erie, PA",2,398
+"Chicago, IL","Erie, PA",3,398
+"Chicago, IL","Evansville, IN",1,272
+"Chicago, IL","Evansville, IN",2,272
+"Chicago, IL","Flint, MI",1,223
+"Chicago, IL","Flint, MI",2,223
+"Chicago, IL","Appleton, WI",3,160
+"Chicago, IL","Indianapolis, IN",3,177
+"Chicago, IL","Dayton, OH",3,240
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Akron, OH",2,343
+"Chicago, IL","Akron, OH",3,343
+"Chicago, IL","Cedar Rapids/Iowa City, IA",1,196
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Green Bay, WI",3,173
+"Chicago, IL","Charleston/Dunbar, WV",1,416
+"Chicago, IL","Charleston/Dunbar, WV",2,416
+"Chicago, IL","Charleston/Dunbar, WV",3,416
+"Chicago, IL","Peoria, IL",1,130
+"Chicago, IL","Peoria, IL",2,130
+"Chicago, IL","Peoria, IL",3,130
+"Chicago, IL","Appleton, WI",1,160
+"Chicago, IL","Appleton, WI",2,160
+"Chicago, IL","Appleton, WI",3,160
+"Chicago, IL","Knoxville, TN",1,475
+"Chicago, IL","Knoxville, TN",2,475
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Nashville, TN",3,409
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",2,258
+"Chicago, IL","Kalamazoo, MI",1,122
+"Chicago, IL","Kalamazoo, MI",2,122
+"Chicago, IL","Charleston/Dunbar, WV",1,416
+"Chicago, IL","Charleston/Dunbar, WV",2,416
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Springfield, MO",3,438
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Peoria, IL",3,130
+"Chicago, IL","Lincoln, NE",1,466
+"Chicago, IL","Lincoln, NE",2,466
+"Chicago, IL","Lincoln, NE",3,466
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Evansville, IN",1,272
+"Chicago, IL","Evansville, IN",2,272
+"Chicago, IL","Evansville, IN",3,272
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Chicago, IL","Lansing, MI",1,179
+"Chicago, IL","Lansing, MI",2,179
+"Chicago, IL","Flint, MI",1,223
+"Chicago, IL","Flint, MI",2,223
+"Chicago, IL","Flint, MI",3,223
+"Chicago, IL","Kalamazoo, MI",1,122
+"Chicago, IL","Kalamazoo, MI",2,122
+"Chicago, IL","Kalamazoo, MI",3,122
+"Chicago, IL","Flint, MI",1,223
+"Chicago, IL","Flint, MI",2,223
+"Chicago, IL","Flint, MI",3,223
+"Chicago, IL","Cleveland, OH",1,316
+"Phoenix, AZ","St. George, UT",2,262
+"Chicago, IL","Dayton, OH",1,240
+"Phoenix, AZ","Tucson, AZ",1,110
+"Chicago, IL","Flint, MI",1,223
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Fort Wayne, IN",1,157
+"Chicago, IL","Toledo, OH",1,213
+"Chicago, IL","Bloomington/Normal, IL",1,116
+"Chicago, IL","Sioux Falls, SD",1,462
+"Chicago, IL","Omaha, NE",1,416
+"Chicago, IL","Moline, IL",1,139
+"Chicago, IL","Indianapolis, IN",1,177
+"Chicago, IL","Buffalo, NY",1,474
+"Chicago, IL","Traverse City, MI",1,224
+"Phoenix, AZ","Palm Springs, CA",1,261
+"Phoenix, AZ","Flagstaff, AZ",1,119
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Sioux Falls, SD",1,462
+"Chicago, IL","Rochester, MN",1,268
+"Chicago, IL","Waterloo, IA",1,234
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Akron, OH",1,343
+"Phoenix, AZ","Bullhead City, AZ",1,188
+"Chicago, IL","Kalamazoo, MI",1,122
+"Chicago, IL","Evansville, IN",1,272
+"Chicago, IL","Evansville, IN",1,272
+"Chicago, IL","La Crosse, WI",1,215
+"Chicago, IL","Mosinee, WI",1,213
+"Chicago, IL","Bloomington/Normal, IL",1,116
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Chicago, IL","Peoria, IL",1,130
+"Chicago, IL","Mosinee, WI",1,213
+"Chicago, IL","Cedar Rapids/Iowa City, IA",1,196
+"Chicago, IL","Mosinee, WI",1,213
+"Chicago, IL","Rochester, MN",1,268
+"Chicago, IL","Waterloo, IA",1,234
+"Chicago, IL","Moline, IL",1,139
+"Chicago, IL","Bloomington/Normal, IL",1,116
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Fort Wayne, IN",1,157
+"Chicago, IL","Rochester, MN",1,268
+"Chicago, IL","Dayton, OH",1,240
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Knoxville, TN",1,475
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Lexington, KY",1,323
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Knoxville, TN",1,475
+"Chicago, IL","Moline, IL",1,139
+"Chicago, IL","Louisville, KY",1,286
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Chicago, IL","Des Moines, IA",1,299
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Columbia, MO",1,315
+"Chicago, IL","Dayton, OH",1,240
+"Phoenix, AZ","Durango, CO",1,353
+"Chicago, IL","Kansas City, MO",1,403
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","Flint, MI",1,223
+"Chicago, IL","Kalamazoo, MI",1,122
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Peoria, IL",1,130
+"Chicago, IL","Kalamazoo, MI",1,122
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Omaha, NE",1,416
+"Phoenix, AZ","Grand Junction, CO",1,438
+"Phoenix, AZ","Durango, CO",1,353
+"Chicago, IL","Grand Rapids, MI",1,137
+"Phoenix, AZ","Bakersfield, CA",1,425
+"Chicago, IL","Indianapolis, IN",1,177
+"Phoenix, AZ","Grand Junction, CO",1,438
+"Phoenix, AZ","Flagstaff, AZ",1,119
+"Chicago, IL","Akron, OH",1,343
+"Phoenix, AZ","Yuma, AZ",1,160
+"Phoenix, AZ","Tucson, AZ",1,110
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Cedar Rapids/Iowa City, IA",1,196
+"Chicago, IL","Rochester, MN",1,268
+"Chicago, IL","Traverse City, MI",1,224
+"Phoenix, AZ","Yuma, AZ",1,160
+"Phoenix, AZ","Palm Springs, CA",1,261
+"Chicago, IL","Flint, MI",1,223
+"Phoenix, AZ","Flagstaff, AZ",1,119
+"Phoenix, AZ","Palm Springs, CA",1,261
+"Phoenix, AZ","Roswell, NM",1,433
+"Chicago, IL","Traverse City, MI",1,224
+"Phoenix, AZ","Yuma, AZ",1,160
+"Phoenix, AZ","Fresno, CA",1,493
+"Chicago, IL","La Crosse, WI",1,215
+"Chicago, IL","La Crosse, WI",1,215
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Louisville, KY",1,286
+"Phoenix, AZ","Yuma, AZ",1,160
+"Phoenix, AZ","Bakersfield, CA",1,425
+"Phoenix, AZ","Flagstaff, AZ",1,119
+"Chicago, IL","Kansas City, MO",1,403
+"Phoenix, AZ","Santa Fe, NM",1,370
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Peoria, IL",1,130
+"Chicago, IL","Cedar Rapids/Iowa City, IA",1,196
+"Chicago, IL","Omaha, NE",1,416
+"Chicago, IL","Fort Wayne, IN",1,157
+"Phoenix, AZ","Palm Springs, CA",1,261
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Milwaukee, WI",1,67
+"Phoenix, AZ","St. George, UT",1,262
+"Phoenix, AZ","St. George, UT",1,262
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Cincinnati, OH",1,264
+"Chicago, IL","Fort Wayne, IN",1,157
+"Chicago, IL","Fort Wayne, IN",1,157
+"Chicago, IL","Saginaw/Bay City/Midland, MI",1,222
+"Chicago, IL","Muskegon, MI",1,118
+"Chicago, IL","Duluth, MN",1,397
+"Chicago, IL","Hancock/Houghton, MI",1,360
+"Chicago, IL","Eau Claire, WI",1,269
+"Chicago, IL","Fort Wayne, IN",1,157
+"Chicago, IL","Saginaw/Bay City/Midland, MI",1,222
+"Chicago, IL","Paducah, KY",1,342
+"Chicago, IL","Paducah, KY",1,342
+"Chicago, IL","Springfield, IL",1,174
+"Chicago, IL","Springfield, IL",1,174
+"Chicago, IL","Saginaw/Bay City/Midland, MI",1,222
+"Chicago, IL","Hancock/Houghton, MI",1,360
+"Chicago, IL","Duluth, MN",1,397
+"Chicago, IL","Eau Claire, WI",1,269
+"Chicago, IL","Muskegon, MI",1,118
+"Chicago, IL","Springfield, IL",1,174
+"Chicago, IL","Duluth, MN",1,397
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Springfield, MO",1,438
+"Chicago, IL","Louisville, KY",1,286
+"Chicago, IL","Moline, IL",1,139
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Cincinnati, OH",1,264
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Cedar Rapids/Iowa City, IA",1,196
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Dayton, OH",1,240
+"Chicago, IL","Dayton, OH",1,240
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Lexington, KY",1,323
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Mosinee, WI",1,213
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Sioux Falls, SD",1,462
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Des Moines, IA",1,299
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Traverse City, MI",1,224
+"Chicago, IL","Buffalo, NY",1,474
+"Chicago, IL","Indianapolis, IN",1,177
+"Chicago, IL","South Bend, IN",1,84
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Lincoln, NE",1,466
+"Chicago, IL","Grand Rapids, MI",1,137
+"Chicago, IL","Milwaukee, WI",1,67
+"Chicago, IL","Cincinnati, OH",1,264
+"Chicago, IL","Cleveland, OH",1,316
+"Chicago, IL","South Bend, IN",1,84
+"Chicago, IL","Lexington, KY",1,323
+"Chicago, IL","Dayton, OH",1,240
+"Chicago, IL","Louisville, KY",1,286
+"Chicago, IL","Lincoln, NE",1,466
+"Chicago, IL","South Bend, IN",1,84
+"Chicago, IL","Sioux Falls, SD",1,462
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","Madison, WI",1,108
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","Traverse City, MI",1,224
+"Chicago, IL","Akron, OH",1,343
+"Chicago, IL","South Bend, IN",1,84
+"Chicago, IL","Omaha, NE",1,416
+"Chicago, IL","Lexington, KY",1,323
+"Chicago, IL","Dayton, OH",1,240
+"Chicago, IL","Memphis, TN",1,491
+"Chicago, IL","Indianapolis, IN",1,177
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Akron, OH",1,343
+"Chicago, IL","Traverse City, MI",1,224
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","Nashville, TN",1,409
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Green Bay, WI",1,173
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Fort Wayne, IN",2,157
+"Chicago, IL","Toledo, OH",2,213
+"Chicago, IL","Bloomington/Normal, IL",2,116
+"Chicago, IL","Sioux Falls, SD",2,462
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Moline, IL",2,139
+"Chicago, IL","Indianapolis, IN",2,177
+"Chicago, IL","Buffalo, NY",2,474
+"Chicago, IL","Traverse City, MI",2,224
+"Phoenix, AZ","Palm Springs, CA",2,261
+"Phoenix, AZ","Flagstaff, AZ",2,119
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Sioux Falls, SD",2,462
+"Chicago, IL","Rochester, MN",2,268
+"Chicago, IL","Waterloo, IA",2,234
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Akron, OH",2,343
+"Phoenix, AZ","Bullhead City, AZ",2,188
+"Chicago, IL","Kalamazoo, MI",2,122
+"Chicago, IL","Evansville, IN",2,272
+"Chicago, IL","Evansville, IN",2,272
+"Chicago, IL","La Crosse, WI",2,215
+"Chicago, IL","Mosinee, WI",2,213
+"Chicago, IL","Bloomington/Normal, IL",2,116
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Chicago, IL","Peoria, IL",2,130
+"Chicago, IL","Mosinee, WI",2,213
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Mosinee, WI",2,213
+"Chicago, IL","Rochester, MN",2,268
+"Chicago, IL","Waterloo, IA",2,234
+"Chicago, IL","Moline, IL",2,139
+"Chicago, IL","Bloomington/Normal, IL",2,116
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Fort Wayne, IN",2,157
+"Chicago, IL","Rochester, MN",2,268
+"Chicago, IL","Dayton, OH",2,240
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Lexington, KY",2,323
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Louisville, KY",2,286
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Chicago, IL","Des Moines, IA",2,299
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Columbia, MO",2,315
+"Phoenix, AZ","Durango, CO",2,353
+"Chicago, IL","Kansas City, MO",2,403
+"Chicago, IL","Detroit, MI",2,235
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Chicago, IL","Flint, MI",2,223
+"Chicago, IL","Kalamazoo, MI",2,122
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Peoria, IL",2,130
+"Chicago, IL","Kalamazoo, MI",2,122
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Dayton, OH",2,240
+"Phoenix, AZ","Grand Junction, CO",2,438
+"Phoenix, AZ","Durango, CO",2,353
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Detroit, MI",2,235
+"Phoenix, AZ","Bakersfield, CA",2,425
+"Chicago, IL","Indianapolis, IN",2,177
+"Phoenix, AZ","Grand Junction, CO",2,438
+"Phoenix, AZ","Flagstaff, AZ",2,119
+"Chicago, IL","Akron, OH",2,343
+"Phoenix, AZ","Yuma, AZ",2,160
+"Phoenix, AZ","Tucson, AZ",2,110
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Rochester, MN",2,268
+"Chicago, IL","Traverse City, MI",2,224
+"Phoenix, AZ","Yuma, AZ",2,160
+"Phoenix, AZ","Palm Springs, CA",2,261
+"Phoenix, AZ","Flagstaff, AZ",2,119
+"Phoenix, AZ","Palm Springs, CA",2,261
+"Phoenix, AZ","Santa Fe, NM",2,370
+"Chicago, IL","Traverse City, MI",2,224
+"Phoenix, AZ","Yuma, AZ",2,160
+"Phoenix, AZ","Fresno, CA",2,493
+"Chicago, IL","La Crosse, WI",2,215
+"Chicago, IL","La Crosse, WI",2,215
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Louisville, KY",2,286
+"Phoenix, AZ","Yuma, AZ",2,160
+"Phoenix, AZ","Bakersfield, CA",2,425
+"Chicago, IL","Flint, MI",2,223
+"Phoenix, AZ","Flagstaff, AZ",2,119
+"Chicago, IL","Kansas City, MO",2,403
+"Phoenix, AZ","Bakersfield, CA",2,425
+"Phoenix, AZ","Roswell, NM",2,433
+"Chicago, IL","Buffalo, NY",2,474
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Peoria, IL",2,130
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Fort Wayne, IN",2,157
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Knoxville, TN",2,475
+"Phoenix, AZ","Palm Springs, CA",2,261
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Milwaukee, WI",2,67
+"Dallas/Fort Worth, TX","Hattiesburg/Laurel, MS",2,462
+"Phoenix, AZ","St. George, UT",2,262
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Knoxville, TN",2,475
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Flint, MI",2,223
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Traverse City, MI",2,224
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Cincinnati, OH",2,264
+"Chicago, IL","Fort Wayne, IN",2,157
+"Chicago, IL","Fort Wayne, IN",2,157
+"Chicago, IL","Saginaw/Bay City/Midland, MI",2,222
+"Chicago, IL","Muskegon, MI",2,118
+"Chicago, IL","Duluth, MN",2,397
+"Chicago, IL","Hancock/Houghton, MI",2,360
+"Chicago, IL","Eau Claire, WI",2,269
+"Chicago, IL","Fort Wayne, IN",2,157
+"Chicago, IL","Saginaw/Bay City/Midland, MI",2,222
+"Chicago, IL","Paducah, KY",2,342
+"Chicago, IL","Paducah, KY",2,342
+"Chicago, IL","Springfield, IL",2,174
+"Chicago, IL","Springfield, IL",2,174
+"Chicago, IL","Saginaw/Bay City/Midland, MI",2,222
+"Chicago, IL","Hancock/Houghton, MI",2,360
+"Chicago, IL","Duluth, MN",2,397
+"Chicago, IL","Eau Claire, WI",2,269
+"Chicago, IL","Muskegon, MI",2,118
+"Chicago, IL","Springfield, IL",2,174
+"Chicago, IL","Duluth, MN",2,397
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Springfield, MO",2,438
+"Chicago, IL","Louisville, KY",2,286
+"Chicago, IL","Moline, IL",2,139
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Cincinnati, OH",2,264
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Dayton, OH",2,240
+"Chicago, IL","Dayton, OH",2,240
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Lexington, KY",2,323
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","Mosinee, WI",2,213
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Sioux Falls, SD",2,462
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Des Moines, IA",2,299
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Traverse City, MI",2,224
+"Chicago, IL","Buffalo, NY",2,474
+"Chicago, IL","Indianapolis, IN",2,177
+"Chicago, IL","South Bend, IN",2,84
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Pittsburgh, PA",2,413
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Lincoln, NE",2,466
+"Chicago, IL","Grand Rapids, MI",2,137
+"Chicago, IL","Milwaukee, WI",2,67
+"Chicago, IL","Cincinnati, OH",2,264
+"Chicago, IL","Cleveland, OH",2,316
+"Chicago, IL","South Bend, IN",2,84
+"Chicago, IL","Lexington, KY",2,323
+"Chicago, IL","Dayton, OH",2,240
+"Chicago, IL","Louisville, KY",2,286
+"Chicago, IL","Cedar Rapids/Iowa City, IA",2,196
+"Chicago, IL","Lincoln, NE",2,466
+"Chicago, IL","South Bend, IN",2,84
+"Chicago, IL","Sioux Falls, SD",2,462
+"Chicago, IL","Madison, WI",2,108
+"Chicago, IL","St. Louis, MO",2,258
+"Chicago, IL","Traverse City, MI",2,224
+"Chicago, IL","South Bend, IN",2,84
+"Chicago, IL","Omaha, NE",2,416
+"Chicago, IL","Lexington, KY",2,323
+"Chicago, IL","Dayton, OH",2,240
+"Chicago, IL","Memphis, TN",2,491
+"Chicago, IL","Indianapolis, IN",2,177
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Akron, OH",2,343
+"Chicago, IL","Traverse City, MI",2,224
+"Chicago, IL","St. Louis, MO",2,258
+"Chicago, IL","Nashville, TN",2,409
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Green Bay, WI",2,173
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Fort Wayne, IN",3,157
+"Chicago, IL","Fort Wayne, IN",3,157
+"Chicago, IL","Sioux Falls, SD",3,462
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","Moline, IL",3,139
+"Chicago, IL","Indianapolis, IN",3,177
+"Chicago, IL","Buffalo, NY",3,474
+"Chicago, IL","Traverse City, MI",3,224
+"Phoenix, AZ","Palm Springs, CA",3,261
+"Phoenix, AZ","Flagstaff, AZ",3,119
+"Chicago, IL","Pittsburgh, PA",3,413
+"Chicago, IL","Sioux Falls, SD",3,462
+"Chicago, IL","Rochester, MN",3,268
+"Chicago, IL","Indianapolis, IN",3,177
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Akron, OH",3,343
+"Phoenix, AZ","Bullhead City, AZ",3,188
+"Chicago, IL","Rochester, MN",3,268
+"Chicago, IL","Des Moines, IA",3,299
+"Chicago, IL","Columbia, MO",3,315
+"Chicago, IL","Mosinee, WI",3,213
+"Phoenix, AZ","Albuquerque, NM",3,328
+"Chicago, IL","Moline, IL",3,139
+"Chicago, IL","La Crosse, WI",3,215
+"Chicago, IL","Bloomington/Normal, IL",3,116
+"Chicago, IL","Waterloo, IA",3,234
+"Chicago, IL","Bloomington/Normal, IL",3,116
+"Chicago, IL","Green Bay, WI",3,173
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Green Bay, WI",3,173
+"Chicago, IL","Green Bay, WI",3,173
+"Chicago, IL","Louisville, KY",3,286
+"Chicago, IL","Pittsburgh, PA",3,413
+"Phoenix, AZ","Albuquerque, NM",3,328
+"Chicago, IL","Pittsburgh, PA",3,413
+"Phoenix, AZ","Durango, CO",3,353
+"Chicago, IL","Detroit, MI",3,235
+"Chicago, IL","Flint, MI",3,223
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Kalamazoo, MI",3,122
+"Chicago, IL","Detroit, MI",3,235
+"Chicago, IL","Peoria, IL",3,130
+"Chicago, IL","Kalamazoo, MI",3,122
+"Chicago, IL","Green Bay, WI",3,173
+"Chicago, IL","Peoria, IL",3,130
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","Dayton, OH",3,240
+"Phoenix, AZ","Grand Junction, CO",3,438
+"Phoenix, AZ","Durango, CO",3,353
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Grand Rapids, MI",3,137
+"Phoenix, AZ","Bakersfield, CA",3,425
+"Chicago, IL","Detroit, MI",3,235
+"Phoenix, AZ","Grand Junction, CO",3,438
+"Phoenix, AZ","Flagstaff, AZ",3,119
+"Phoenix, AZ","Yuma, AZ",3,160
+"Phoenix, AZ","Tucson, AZ",3,110
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Cedar Rapids/Iowa City, IA",3,196
+"Chicago, IL","Rochester, MN",3,268
+"Chicago, IL","Traverse City, MI",3,224
+"Phoenix, AZ","Yuma, AZ",3,160
+"Phoenix, AZ","Palm Springs, CA",3,261
+"Phoenix, AZ","Flagstaff, AZ",3,119
+"Phoenix, AZ","Palm Springs, CA",3,261
+"Phoenix, AZ","Santa Fe, NM",3,370
+"Chicago, IL","Traverse City, MI",3,224
+"Phoenix, AZ","Yuma, AZ",3,160
+"Phoenix, AZ","Fresno, CA",3,493
+"Chicago, IL","La Crosse, WI",3,215
+"Chicago, IL","La Crosse, WI",3,215
+"Chicago, IL","Detroit, MI",3,235
+"Phoenix, AZ","Yuma, AZ",3,160
+"Phoenix, AZ","Bakersfield, CA",3,425
+"Phoenix, AZ","Flagstaff, AZ",3,119
+"Chicago, IL","Cedar Rapids/Iowa City, IA",3,196
+"Phoenix, AZ","Bakersfield, CA",3,425
+"Phoenix, AZ","Roswell, NM",3,433
+"Chicago, IL","Buffalo, NY",3,474
+"Chicago, IL","Detroit, MI",3,235
+"Chicago, IL","Rochester, MN",3,268
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Cedar Rapids/Iowa City, IA",3,196
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","Cedar Rapids/Iowa City, IA",3,196
+"Chicago, IL","Sioux Falls, SD",3,462
+"Chicago, IL","Knoxville, TN",3,475
+"Phoenix, AZ","Palm Springs, CA",3,261
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Milwaukee, WI",3,67
+"Dallas/Fort Worth, TX","Hattiesburg/Laurel, MS",3,462
+"Phoenix, AZ","St. George, UT",3,262
+"Phoenix, AZ","St. George, UT",3,262
+"Chicago, IL","Knoxville, TN",3,475
+"Chicago, IL","Nashville, TN",3,409
+"Chicago, IL","Madison, WI",3,108
+"Chicago, IL","Nashville, TN",3,409
+"Chicago, IL","Lexington, KY",3,323
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","Flint, MI",3,223
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Traverse City, MI",3,224
+"Chicago, IL","Detroit, MI",3,235
+"Chicago, IL","Detroit, MI",3,235
+"Chicago, IL","Fort Wayne, IN",3,157
+"Chicago, IL","Fort Wayne, IN",3,157
+"Chicago, IL","Saginaw/Bay City/Midland, MI",3,222
+"Chicago, IL","Muskegon, MI",3,118
+"Chicago, IL","Duluth, MN",3,397
+"Chicago, IL","Hancock/Houghton, MI",3,360
+"Chicago, IL","Fort Wayne, IN",3,157
+"Chicago, IL","Saginaw/Bay City/Midland, MI",3,222
+"Chicago, IL","Paducah, KY",3,342
+"Chicago, IL","Springfield, IL",3,174
+"Chicago, IL","Springfield, IL",3,174
+"Chicago, IL","Hancock/Houghton, MI",3,360
+"Chicago, IL","Duluth, MN",3,397
+"Chicago, IL","Eau Claire, WI",3,269
+"Chicago, IL","Duluth, MN",3,397
+"Chicago, IL","Springfield, MO",3,438
+"Chicago, IL","Akron, OH",3,343
+"Chicago, IL","Cleveland, OH",3,316
+"Chicago, IL","Milwaukee, WI",3,67
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Nashville, TN",3,409
+"Chicago, IL","Grand Rapids, MI",3,137
+"Chicago, IL","Dayton, OH",3,240
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Memphis, TN",3,491
+"Chicago, IL","Sioux Falls, SD",3,462
+"Chicago, IL","Cleveland, OH",3,316
+"Chicago, IL","Nashville, TN",3,409
+"Chicago, IL","Sioux Falls, SD",3,462
+"Chicago, IL","Peoria, IL",3,130
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Chicago, IL","Des Moines, IA",3,299
+"Chicago, IL","Green Bay, WI",3,173
+"Chicago, IL","Milwaukee, WI",3,67
+"Chicago, IL","Buffalo, NY",3,474
+"Chicago, IL","Indianapolis, IN",3,177
+"Chicago, IL","South Bend, IN",3,84
+"Chicago, IL","Pittsburgh, PA",3,413
+"Chicago, IL","Mosinee, WI",3,213
+"Chicago, IL","Lincoln, NE",3,466
+"Chicago, IL","Cedar Rapids/Iowa City, IA",3,196
+"Chicago, IL","South Bend, IN",3,84
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Louisville, KY",3,286
+"Chicago, IL","Cincinnati, OH",3,264
+"Chicago, IL","Omaha, NE",3,416
+"Chicago, IL","South Bend, IN",3,84
+"Chicago, IL","Lincoln, NE",3,466
+"Chicago, IL","Lexington, KY",3,323
+"Chicago, IL","Moline, IL",3,139
+"Chicago, IL","Traverse City, MI",3,224
+"Chicago, IL","Nashville, TN",3,409
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",2,447
+"Dallas/Fort Worth, TX","New Orleans, LA",3,447
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Charlotte, NC","Trenton, NJ",1,484
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Cleveland, OH",2,430
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Cleveland, OH",3,430
+"Charlotte, NC","Philadelphia, PA",3,449
+"Charlotte, NC","Orlando, FL",3,468
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Minneapolis, MN",1,334
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Minneapolis, MN",1,334
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Minneapolis, MN",1,334
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Detroit, MI",1,235
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Minneapolis, MN",1,334
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Minneapolis, MN",1,334
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Minneapolis, MN",1,334
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",1,226
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Minneapolis, MN",2,334
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Minneapolis, MN",2,334
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Minneapolis, MN",2,334
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Detroit, MI",2,235
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Minneapolis, MN",2,334
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Minneapolis, MN",2,334
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Minneapolis, MN",2,334
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Chicago, IL","Detroit, MI",3,235
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Chicago, IL","Minneapolis, MN",3,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Dallas/Fort Worth, TX","Fayetteville, AR",3,280
+"Dallas/Fort Worth, TX","Fayetteville, AR",3,280
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",2,237
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Raleigh/Durham, NC",3,130
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","Kansas City, MO",2,460
+"Dallas/Fort Worth, TX","Kansas City, MO",3,460
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","Kansas City, MO",2,460
+"Dallas/Fort Worth, TX","Kansas City, MO",3,460
+"Dallas/Fort Worth, TX","Tulsa, OK",3,237
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",3,447
+"Dallas/Fort Worth, TX","Fayetteville, AR",2,280
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",2,258
+"Chicago, IL","St. Louis, MO",3,258
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",2,258
+"Chicago, IL","St. Louis, MO",3,258
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Chicago, IL","Kansas City, MO",3,403
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Dallas/Fort Worth, TX","Oklahoma City, OK",1,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",2,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",3,175
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",1,469
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",2,469
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",2,237
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","Kansas City, MO",2,460
+"Dallas/Fort Worth, TX","Kansas City, MO",3,460
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",2,237
+"Dallas/Fort Worth, TX","Tulsa, OK",3,237
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",3,325
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Cleveland, OH",1,430
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Indianapolis, IN",1,427
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Raleigh/Durham, NC",3,130
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Charlotte, NC","Indianapolis, IN",1,427
+"Charlotte, NC","Indianapolis, IN",2,427
+"Charlotte, NC","Indianapolis, IN",3,427
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Charlotte, NC","Cleveland, OH",2,430
+"Charlotte, NC","Cleveland, OH",3,430
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Pittsburgh, PA",3,366
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Richmond, VA",2,257
+"Charlotte, NC","Richmond, VA",3,257
+"Charlotte, NC","Harrisburg, PA",1,413
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Raleigh/Durham, NC",3,130
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Raleigh/Durham, NC",3,130
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Washington, DC",3,331
+"Charlotte, NC","Nashville, TN",1,328
+"Charlotte, NC","Nashville, TN",2,328
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Jacksonville, FL",1,328
+"Charlotte, NC","Jacksonville, FL",2,328
+"Charlotte, NC","Wilmington, NC",1,185
+"Charlotte, NC","Wilmington, NC",2,185
+"Charlotte, NC","Wilmington, NC",3,185
+"Charlotte, NC","Richmond, VA",1,257
+"Charlotte, NC","Richmond, VA",2,257
+"Charlotte, NC","Richmond, VA",3,257
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Charlotte, NC","Jacksonville, FL",2,328
+"Charlotte, NC","Jacksonville, FL",3,328
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Raleigh/Durham, NC",3,130
+"Charlotte, NC","Norfolk, VA",1,290
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Charlotte, NC","Washington, DC",1,331
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",3,237
+"Dallas/Fort Worth, TX","Fayetteville, AR",2,280
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Dallas/Fort Worth, TX","Memphis, TN",1,431
+"Dallas/Fort Worth, TX","Memphis, TN",2,431
+"Dallas/Fort Worth, TX","Memphis, TN",3,431
+"Dallas/Fort Worth, TX","Oklahoma City, OK",1,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",2,175
+"Dallas/Fort Worth, TX","Fayetteville, AR",3,280
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",1,469
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",2,469
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",3,469
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Detroit, MI",2,235
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",2,447
+"Dallas/Fort Worth, TX","New Orleans, LA",3,447
+"Dallas/Fort Worth, TX","Oklahoma City, OK",2,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",3,175
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","Kansas City, MO",2,460
+"Dallas/Fort Worth, TX","Kansas City, MO",3,460
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",2,447
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",2,447
+"Dallas/Fort Worth, TX","New Orleans, LA",3,447
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Dallas/Fort Worth, TX","Amarillo, TX",1,312
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",2,237
+"Dallas/Fort Worth, TX","Tulsa, OK",3,237
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Dallas/Fort Worth, TX","Memphis, TN",1,431
+"Dallas/Fort Worth, TX","Memphis, TN",2,431
+"Dallas/Fort Worth, TX","Memphis, TN",3,431
+"Dallas/Fort Worth, TX","Lubbock, TX",1,282
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",2,447
+"Dallas/Fort Worth, TX","New Orleans, LA",3,447
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Richmond, VA",1,257
+"Charlotte, NC","Richmond, VA",2,257
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Charlotte, NC","Atlanta, GA",2,226
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",3,325
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",3,325
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Charlotte, NC","Nashville, TN",1,328
+"Charlotte, NC","Nashville, TN",2,328
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","Kansas City, MO",2,460
+"Dallas/Fort Worth, TX","Kansas City, MO",3,460
+"Dallas/Fort Worth, TX","Oklahoma City, OK",1,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",2,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",3,175
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","St. Louis, MO",3,258
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","Kansas City, MO",1,460
+"Dallas/Fort Worth, TX","Kansas City, MO",2,460
+"Dallas/Fort Worth, TX","Kansas City, MO",3,460
+"Chicago, IL","Pittsburgh, PA",1,413
+"Chicago, IL","Pittsburgh, PA",2,413
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Charlotte, NC","Washington, DC",3,331
+"Charlotte, NC","Washington, DC",2,331
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Charlotte, NC","Savannah, GA",1,213
+"Charlotte, NC","Wilmington, NC",1,185
+"Charlotte, NC","Jacksonville, FL",1,328
+"Charlotte, NC","Jacksonville, FL",2,328
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Charlotte, NC","Richmond, VA",3,257
+"Charlotte, NC","Jacksonville, FL",3,328
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Harrisburg, PA",1,413
+"Charlotte, NC","Harrisburg, PA",2,413
+"Charlotte, NC","Harrisburg, PA",3,413
+"Charlotte, NC","Jacksonville, FL",1,328
+"Charlotte, NC","Jacksonville, FL",2,328
+"Charlotte, NC","Savannah, GA",1,213
+"Charlotte, NC","Savannah, GA",2,213
+"Charlotte, NC","Nashville, TN",1,328
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Charleston, SC",1,168
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Washington, DC",3,331
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Nashville, TN",2,328
+"Charlotte, NC","Jacksonville, FL",1,328
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Charlotte, NC","Pittsburgh, PA",2,366
+"Charlotte, NC","Pittsburgh, PA",3,366
+"Charlotte, NC","Norfolk, VA",1,290
+"Charlotte, NC","Norfolk, VA",2,290
+"Charlotte, NC","Norfolk, VA",3,290
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Washington, DC",3,331
+"Charlotte, NC","Washington, DC",1,331
+"Charlotte, NC","Washington, DC",2,331
+"Charlotte, NC","Washington, DC",3,331
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Wilmington, NC",2,185
+"Charlotte, NC","Richmond, VA",1,257
+"Charlotte, NC","Richmond, VA",2,257
+"Charlotte, NC","Richmond, VA",3,257
+"Charlotte, NC","Charleston, SC",2,168
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Nashville, TN",1,328
+"Charlotte, NC","Nashville, TN",2,328
+"Charlotte, NC","Nashville, TN",3,328
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Charlotte, NC","Cleveland, OH",1,430
+"Charlotte, NC","Myrtle Beach, SC",2,157
+"Charlotte, NC","Myrtle Beach, SC",3,157
+"Charlotte, NC","Indianapolis, IN",1,427
+"Charlotte, NC","Indianapolis, IN",2,427
+"Charlotte, NC","Jacksonville, FL",1,328
+"Charlotte, NC","Jacksonville, FL",2,328
+"Charlotte, NC","Jacksonville, FL",1,328
+"Charlotte, NC","Jacksonville, FL",2,328
+"Charlotte, NC","Charleston, SC",1,168
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Charlotte, NC","Raleigh/Durham, NC",1,130
+"Charlotte, NC","Raleigh/Durham, NC",2,130
+"Charlotte, NC","Washington, DC",1,322
+"Charlotte, NC","Cleveland, OH",1,430
+"Charlotte, NC","Cleveland, OH",2,430
+"Charlotte, NC","Cleveland, OH",3,430
+"Charlotte, NC","Norfolk, VA",1,290
+"Charlotte, NC","Norfolk, VA",2,290
+"Charlotte, NC","Cleveland, OH",1,430
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Charlotte, NC","Pittsburgh, PA",1,366
+"Dallas/Fort Worth, TX","Oklahoma City, OK",1,175
+"Chicago, IL","Minneapolis, MN",1,334
+"Chicago, IL","Minneapolis, MN",2,334
+"Chicago, IL","Minneapolis, MN",3,334
+"Dallas/Fort Worth, TX","Corpus Christi, TX",1,354
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",2,258
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",1,469
+"Dallas/Fort Worth, TX","Memphis, TN",1,431
+"Dallas/Fort Worth, TX","Memphis, TN",2,431
+"Dallas/Fort Worth, TX","Memphis, TN",3,431
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","Fayetteville, AR",2,280
+"Dallas/Fort Worth, TX","Oklahoma City, OK",2,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",3,175
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",2,237
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Dallas/Fort Worth, TX","Fayetteville, AR",2,280
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Dallas/Fort Worth, TX","Tulsa, OK",1,237
+"Dallas/Fort Worth, TX","Tulsa, OK",2,237
+"Dallas/Fort Worth, TX","Fayetteville, AR",3,280
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Charlotte, NC","Atlanta, GA",1,226
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Charlotte, NC","Atlanta, GA",1,226
+"Charlotte, NC","Atlanta, GA",2,226
+"Charlotte, NC","Atlanta, GA",3,226
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Charlotte, NC","Philadelphia, PA",1,449
+"Charlotte, NC","Philadelphia, PA",2,449
+"Charlotte, NC","Philadelphia, PA",3,449
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Charlotte, NC","Orlando, FL",1,468
+"Charlotte, NC","Orlando, FL",2,468
+"Charlotte, NC","Orlando, FL",3,468
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Fayetteville, AR",3,280
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Dallas/Fort Worth, TX","New Orleans, LA",1,447
+"Dallas/Fort Worth, TX","New Orleans, LA",2,447
+"Dallas/Fort Worth, TX","Houston, TX",1,224
+"Dallas/Fort Worth, TX","Houston, TX",2,224
+"Dallas/Fort Worth, TX","Houston, TX",3,224
+"Chicago, IL","St. Louis, MO",1,258
+"Chicago, IL","St. Louis, MO",2,258
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Chicago, IL","Kansas City, MO",1,403
+"Chicago, IL","Kansas City, MO",2,403
+"Chicago, IL","Kansas City, MO",3,403
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Dallas/Fort Worth, TX","Austin, TX",1,190
+"Dallas/Fort Worth, TX","Austin, TX",2,190
+"Dallas/Fort Worth, TX","Austin, TX",3,190
+"Chicago, IL","Detroit, MI",1,235
+"Chicago, IL","Detroit, MI",2,235
+"Chicago, IL","Minneapolis, MN",3,334
+"Dallas/Fort Worth, TX","Wichita, KS",1,328
+"Dallas/Fort Worth, TX","Wichita, KS",2,328
+"Dallas/Fort Worth, TX","Wichita, KS",3,328
+"Dallas/Fort Worth, TX","San Antonio, TX",1,247
+"Dallas/Fort Worth, TX","San Antonio, TX",2,247
+"Dallas/Fort Worth, TX","San Antonio, TX",3,247
+"Dallas/Fort Worth, TX","Oklahoma City, OK",2,175
+"Dallas/Fort Worth, TX","Oklahoma City, OK",3,175
+"Charlotte, NC","Nashville, TN",1,328
+"Charlotte, NC","Baltimore, MD",1,361
+"Charlotte, NC","Baltimore, MD",1,361
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Albuquerque, NM",1,328
+"Phoenix, AZ","Burbank, CA",1,369
+"Phoenix, AZ","Burbank, CA",1,369
+"Phoenix, AZ","Burbank, CA",1,369
+"Phoenix, AZ","Burbank, CA",1,369
+"Phoenix, AZ","Burbank, CA",1,369
+"Phoenix, AZ","Burbank, CA",1,369
+"Phoenix, AZ","El Paso, TX",1,347
+"Phoenix, AZ","El Paso, TX",1,347
+"Phoenix, AZ","El Paso, TX",1,347
+"Phoenix, AZ","El Paso, TX",1,347
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Las Vegas, NV",1,255
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Los Angeles, CA",1,370
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","Ontario, CA",1,325
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","San Diego, CA",1,304
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Phoenix, AZ","Santa Ana, CA",1,338
+"Charlotte, NC","Nashville, TN",2,328
+"Charlotte, NC","Baltimore, MD",2,361
+"Charlotte, NC","Baltimore, MD",2,361
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Albuquerque, NM",2,328
+"Phoenix, AZ","Burbank, CA",2,369
+"Phoenix, AZ","Burbank, CA",2,369
+"Phoenix, AZ","Burbank, CA",2,369
+"Phoenix, AZ","Burbank, CA",2,369
+"Phoenix, AZ","Burbank, CA",2,369
+"Phoenix, AZ","Burbank, CA",2,369
+"Phoenix, AZ","El Paso, TX",2,347
+"Phoenix, AZ","El Paso, TX",2,347
+"Phoenix, AZ","El Paso, TX",2,347
+"Phoenix, AZ","El Paso, TX",2,347
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Las Vegas, NV",2,255
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Los Angeles, CA",2,370
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","Ontario, CA",2,325
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","San Diego, CA",2,304
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Phoenix, AZ","Santa Ana, CA",2,338
+"Charlotte, NC","Nashville, TN",3,328
+"Charlotte, NC","Baltimore, MD",3,361
+"Charlotte, NC","Baltimore, MD",3,361
+"Phoenix, AZ","Albuquerque, NM",3,328
+"Phoenix, AZ","Albuquerque, NM",3,328
+"Phoenix, AZ","Albuquerque, NM",3,328
+"Phoenix, AZ","Burbank, CA",3,369
+"Phoenix, AZ","Burbank, CA",3,369
+"Phoenix, AZ","Burbank, CA",3,369
+"Phoenix, AZ","Burbank, CA",3,369
+"Phoenix, AZ","El Paso, TX",3,347
+"Phoenix, AZ","El Paso, TX",3,347
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Las Vegas, NV",3,255
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Los Angeles, CA",3,370
+"Phoenix, AZ","Ontario, CA",3,325
+"Phoenix, AZ","Ontario, CA",3,325
+"Phoenix, AZ","Ontario, CA",3,325
+"Phoenix, AZ","Ontario, CA",3,325
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","San Diego, CA",3,304
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Phoenix, AZ","Santa Ana, CA",3,338
+"Phoenix, AZ","Santa Ana, CA",3,338
